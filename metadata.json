@@ -1,0 +1,6 @@
+{
+  "name": "Deniz Saray Travel",
+  "description": "Luxury travel agency, VIP transportation, hotels & flights booking, and comprehensive medical tourism platform in Turkey with an elegant multilingual AI Travel Consultant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
